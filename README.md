@@ -26,6 +26,7 @@ Download The zip file and upload it via your Dashboard: Plugins-> Add new -> Upl
 ![export](https://user-images.githubusercontent.com/6423366/46209320-79d4de00-c325-11e8-9a39-d609839abac8.png)
 
 
+#### Tested on the latest version 4.9.8 
 
 ## Author
 
