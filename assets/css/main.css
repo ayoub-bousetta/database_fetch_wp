@@ -1,0 +1,70 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+.fetch_database_style {
+  background: #fff;
+  border: 1px solid #ffa150;
+  max-width: 600px;
+  padding: 20px;
+  margin: 0 auto;
+  position: absolute;
+  /* display: flex; */
+  /* flex-basis: auto; */
+  left: 0;
+  right: 0;
+  top: 80px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px; }
+  .fetch_database_style a, .fetch_database_style input, .fetch_database_style button {
+    outline: 0;
+    border: 0; }
+  .fetch_database_style h2 {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 1.5rem;
+    color: #444; }
+  .fetch_database_style form {
+    margin-top: 20px; }
+    .fetch_database_style form #inputup {
+      margin-bottom: 20px; }
+      .fetch_database_style form #inputup input, .fetch_database_style form #inputup select {
+        border: 1px solid #ddd;
+        height: 35px;
+        width: 100%; }
+      .fetch_database_style form #inputup span {
+        font-size: 0.9rem;
+        margin-bottom: 10px; }
+  .fetch_database_style button, .fetch_database_style a {
+    border-radius: .7rem;
+    padding: 0 20px;
+    line-height: 30px;
+    -webkit-transition: background-color .4s,border-color .4s;
+    transition: background-color .4s,border-color .4s;
+    border: 1px solid #ffa150;
+    background: transparent;
+    margin: 0 auto;
+    max-width: 100%;
+    margin-top: 20px;
+    width: 250px;
+    display: block;
+    color: #ffa150;
+    text-align: center; }
+
+.tabelContainer {
+  max-width: 100%;
+  width: 99%;
+  overflow-y: scroll; }
+
+.tablenav-pages span {
+  color: #ffa150; }
+
+.tablenav-pages a {
+  background: transparent;
+  color: #ffa150 !important; }
+  .tablenav-pages a:active {
+    color: #ffa150; }
+  .tablenav-pages a:hover {
+    border-color: #ffa150 !important;
+    color: #ffa150 !important;
+    background: transparent !important; }
+
+
+/*# sourceMappingURL=main.css.map*/
